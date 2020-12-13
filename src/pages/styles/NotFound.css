@@ -1,0 +1,18 @@
+.Badges__404-div{
+    align-items: center;
+}
+
+.Badges__404-error_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+
+.Badges__404-text{
+    display: block;
+    margin-left: auto;
+    text-align: center;
+    margin-right: auto;
+}
